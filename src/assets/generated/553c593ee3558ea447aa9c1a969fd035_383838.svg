@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Effects</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Photo" sketch:type="MSLayerGroup" transform="translate(-359.000000, -717.000000)" stroke="#383838" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Effects" transform="translate(363.000000, 720.000000)" sketch:type="MSShapeGroup">
+                <circle id="Oval-1913" cx="36" cy="37" r="16"></circle>
+                <path d="M41.2215934,20.9438173 C41.7269086,19.3869071 42,17.7253455 42,16 C42,7.163444 34.836556,0 26,0 C17.163444,0 10,7.163444 10,16 C10,17.9511013 10.3492331,19.8206348 10.9885992,21.5495003" id="Oval-1913"></path>
+                <path d="M25.9856809,24.4977929 C23.2486915,22.3088655 19.7771967,21 16,21 C7.163444,21 0,28.163444 0,37 C0,45.836556 7.163444,53 16,53 C19.8345242,53 23.3539967,51.6511031 26.1097919,49.4019347" id="Oval-1913"></path>
+            </g>
+        </g>
+    </g>
+</svg>
